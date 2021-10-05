@@ -15,7 +15,7 @@ My name is Henrik and I'm a software engineering student based in Bergen, Norway
 ## Stats
 
 <a href="https://github.com/MrHencke/MrHencke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHencke&hide=java,html,text,jupyter%20notebook&langs_count=3&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHencke&hide=html,text,css,jupyter%20notebook&langs_count=3&theme=synthwave" />
 </a>
 <a href="https://github.com/MrHencke/MrHencke">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrHencke&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Stats" />
