@@ -1,6 +1,6 @@
 # Hello, world!
 
-My name is Henrik and I'm a software engineering student based in Bergen, Norway. You can find me on <a href="https://twitter.com/HenckeDev">Twitter</a>, <a href="https://instagram.com/HenckeDev">Instagram</a> or <a href="https://www.linkedin.com/in/henrik-hammer/">LinkedIn</a>.
+My name is Henrik and I'm a software engineering student based in Bergen, Norway. You can find me on <a href="https://www.linkedin.com/in/henrik-hammer/">LinkedIn</a>.
 
 ## Technologies I work with
 
