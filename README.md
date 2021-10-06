@@ -11,7 +11,7 @@ My name is Henrik and I'm a software engineering student based in Bergen, Norway
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)
+<!--![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)-->
 
 ## Stats
 
