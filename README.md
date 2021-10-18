@@ -1,6 +1,6 @@
-# Hello, world!
+# Hello, github!
 
-My name is Henrik and I'm a software engineering student based in Bergen, Norway. You can find me on <a href="https://www.linkedin.com/in/henrik-hammer/">LinkedIn</a>.
+My name is Henrik and I'm a software engineering student based in Bergen, Norway. You can find and connect with me on <a href="https://www.linkedin.com/in/henrik-hammer/">LinkedIn</a>.
 
 ## Technologies I work with
 
