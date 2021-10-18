@@ -11,16 +11,22 @@ My name is Henrik and I'm a software engineering student based in Bergen, Norway
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/DB-MongoDB-informational?style=flat-square&logo=mongodb&logoColor=white&color=2bbc8a)-->
 
 ## Stats
 
 <a href="https://github.com/MrHencke/MrHencke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHencke&hide=html,text,css,jupyter%20notebook&exclude_repo=dotfiles&langs_count=5&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHencke&hide=html,text,css,jupyter%20notebook&exclude_repo=dotfiles&langs_count=3&theme=synthwave" />
 </a>
 <a href="https://github.com/MrHencke/MrHencke">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrHencke&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Stats" />
 </a>
+
+<br/>
+
+## You are visitor:
+
+![](https://profile-counter.glitch.me/MrHencke/count.svg)
+  
 
 <!-- Resources -->
 <!-- Inspiration from: https://github.com/MartinHeinz -->
