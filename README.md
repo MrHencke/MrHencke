@@ -8,7 +8,7 @@ My name is Henrik and I'm a software engineering student from in Bergen, Norway.
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat-square&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat-square&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat-square&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-CSharp-informational?style=flat-square&logo=csharp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat-square&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat-square&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
