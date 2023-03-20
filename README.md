@@ -1,6 +1,6 @@
 # Hello, github!
 
-My name is Henrik and I'm a software engineering student from Bergen, Norway. I am currently studying for a M.Sc in artifical intelligence at NTNU Trondheim. You can find and connect with me on <a href="https://www.linkedin.com/in/henrik-hammer/">LinkedIn</a>.
+My name is Henrik and I'm a software engineering student from in Bergen, Norway. I am currently studying for a M.Sc in artifical intelligence at NTNU Trondheim. You can find and connect with me on <a href="https://www.linkedin.com/in/henrik-hammer/">LinkedIn</a>.
 
 ## Technologies I work with
 
