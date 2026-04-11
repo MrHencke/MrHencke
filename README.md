@@ -15,10 +15,10 @@ My name is Henrik and I'm a software engineer from Bergen, Norway. You can find 
 ## Stats
 
 <a href="https://github.com/MrHencke/MrHencke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrHencke&hide=html,text,css,jupyter%20notebook&exclude_repo=dotfiles&langs_count=3&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrHencke&hide=html,text,css,jupyter%20notebook&exclude_repo=dotfiles&langs_count=3&theme=synthwave" />
 </a>
 <a href="https://github.com/MrHencke/MrHencke">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MrHencke&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.shion.dev/api?username=MrHencke&show_icons=true&line_height=27&count_private=true&theme=synthwave" alt="Stats" />
 </a>
 
 <br/>
